@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.13" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="3.1.13" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.1.13" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.13" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.13" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NetcoreEFReactDemo.ApplicationServices\NetcoreEFReactDemo.ApplicationServices.csproj" />
+    <ProjectReference Include="..\NetcoreEFReactDemo.DataAccess\NetcoreEFReactDemo.DataAccess.csproj" />
+    <ProjectReference Include="..\NetcoreEFReactDemo.Domain\NetcoreEFReactDemo.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

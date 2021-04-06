@@ -1,0 +1,9 @@
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.Domain\bin\Debug\netcoreapp3.1\NetcoreEFReactDemo.Domain.deps.json
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.Domain\bin\Debug\netcoreapp3.1\NetcoreEFReactDemo.Domain.dll
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.Domain\bin\Debug\netcoreapp3.1\NetcoreEFReactDemo.Domain.pdb
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.Domain\obj\Debug\netcoreapp3.1\NetcoreEFReactDemo.Domain.csprojAssemblyReference.cache
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.Domain\obj\Debug\netcoreapp3.1\NetcoreEFReactDemo.Domain.AssemblyInfoInputs.cache
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.Domain\obj\Debug\netcoreapp3.1\NetcoreEFReactDemo.Domain.AssemblyInfo.cs
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.Domain\obj\Debug\netcoreapp3.1\NetcoreEFReactDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.Domain\obj\Debug\netcoreapp3.1\NetcoreEFReactDemo.Domain.dll
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.Domain\obj\Debug\netcoreapp3.1\NetcoreEFReactDemo.Domain.pdb

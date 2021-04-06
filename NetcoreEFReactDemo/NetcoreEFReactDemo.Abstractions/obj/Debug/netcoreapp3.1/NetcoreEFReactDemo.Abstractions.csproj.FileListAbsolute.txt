@@ -1,0 +1,9 @@
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.Abstractions\bin\Debug\netcoreapp3.1\NetcoreEFReactDemo.Abstractions.deps.json
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.Abstractions\bin\Debug\netcoreapp3.1\NetcoreEFReactDemo.Abstractions.dll
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.Abstractions\bin\Debug\netcoreapp3.1\NetcoreEFReactDemo.Abstractions.pdb
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.Abstractions\obj\Debug\netcoreapp3.1\NetcoreEFReactDemo.Abstractions.csprojAssemblyReference.cache
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.Abstractions\obj\Debug\netcoreapp3.1\NetcoreEFReactDemo.Abstractions.AssemblyInfoInputs.cache
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.Abstractions\obj\Debug\netcoreapp3.1\NetcoreEFReactDemo.Abstractions.AssemblyInfo.cs
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.Abstractions\obj\Debug\netcoreapp3.1\NetcoreEFReactDemo.Abstractions.csproj.CoreCompileInputs.cache
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.Abstractions\obj\Debug\netcoreapp3.1\NetcoreEFReactDemo.Abstractions.dll
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.Abstractions\obj\Debug\netcoreapp3.1\NetcoreEFReactDemo.Abstractions.pdb

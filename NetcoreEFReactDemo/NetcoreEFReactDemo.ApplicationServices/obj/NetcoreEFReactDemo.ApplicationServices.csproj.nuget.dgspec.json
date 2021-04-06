@@ -1,0 +1,269 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.ApplicationServices\\NetcoreEFReactDemo.ApplicationServices.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.Abstractions\\NetcoreEFReactDemo.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.Abstractions\\NetcoreEFReactDemo.Abstractions.csproj",
+        "projectName": "NetcoreEFReactDemo.Abstractions",
+        "projectPath": "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.Abstractions\\NetcoreEFReactDemo.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\paulius.adomaitis\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paulius.adomaitis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.ApplicationServices\\NetcoreEFReactDemo.ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.ApplicationServices\\NetcoreEFReactDemo.ApplicationServices.csproj",
+        "projectName": "NetcoreEFReactDemo.ApplicationServices",
+        "projectPath": "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.ApplicationServices\\NetcoreEFReactDemo.ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\paulius.adomaitis\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paulius.adomaitis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.Abstractions\\NetcoreEFReactDemo.Abstractions.csproj": {
+                "projectPath": "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.Abstractions\\NetcoreEFReactDemo.Abstractions.csproj"
+              },
+              "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.DataAccess\\NetcoreEFReactDemo.DataAccess.csproj": {
+                "projectPath": "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.DataAccess\\NetcoreEFReactDemo.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.DataAccess\\NetcoreEFReactDemo.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.DataAccess\\NetcoreEFReactDemo.DataAccess.csproj",
+        "projectName": "NetcoreEFReactDemo.DataAccess",
+        "projectPath": "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.DataAccess\\NetcoreEFReactDemo.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\paulius.adomaitis\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paulius.adomaitis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.Domain\\NetcoreEFReactDemo.Domain.csproj": {
+                "projectPath": "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.Domain\\NetcoreEFReactDemo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.Domain\\NetcoreEFReactDemo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.Domain\\NetcoreEFReactDemo.Domain.csproj",
+        "projectName": "NetcoreEFReactDemo.Domain",
+        "projectPath": "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.Domain\\NetcoreEFReactDemo.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulius.adomaitis\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\SelfReflectionToolForKids\\demo\\NetcoreEFReactDemo\\NetcoreEFReactDemo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paulius.adomaitis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

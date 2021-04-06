@@ -1,0 +1,12 @@
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.DataAccess\bin\Debug\netcoreapp3.1\NetcoreEFReactDemo.DataAccess.deps.json
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.DataAccess\bin\Debug\netcoreapp3.1\NetcoreEFReactDemo.DataAccess.dll
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.DataAccess\bin\Debug\netcoreapp3.1\NetcoreEFReactDemo.DataAccess.pdb
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.DataAccess\bin\Debug\netcoreapp3.1\NetcoreEFReactDemo.Domain.dll
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.DataAccess\bin\Debug\netcoreapp3.1\NetcoreEFReactDemo.Domain.pdb
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.DataAccess\obj\Debug\netcoreapp3.1\NetcoreEFReactDemo.DataAccess.csprojAssemblyReference.cache
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.DataAccess\obj\Debug\netcoreapp3.1\NetcoreEFReactDemo.DataAccess.AssemblyInfoInputs.cache
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.DataAccess\obj\Debug\netcoreapp3.1\NetcoreEFReactDemo.DataAccess.AssemblyInfo.cs
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.DataAccess\obj\Debug\netcoreapp3.1\NetcoreEFReactDemo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.DataAccess\obj\Debug\netcoreapp3.1\NetcoreEFReactDemo.DataAccess.csproj.CopyComplete
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.DataAccess\obj\Debug\netcoreapp3.1\NetcoreEFReactDemo.DataAccess.dll
+C:\Projects\SelfReflectionToolForKids\demo\NetcoreEFReactDemo\NetcoreEFReactDemo.DataAccess\obj\Debug\netcoreapp3.1\NetcoreEFReactDemo.DataAccess.pdb

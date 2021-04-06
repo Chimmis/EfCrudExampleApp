@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NetcoreEFReactDemo.Domain/1.0.0": {
+        "runtime": {
+          "NetcoreEFReactDemo.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetcoreEFReactDemo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
